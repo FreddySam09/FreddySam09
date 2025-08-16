@@ -43,9 +43,9 @@ Curious about building engaging, scalable, and impactful applications that combi
 
 
 ## GitHub Stats
-![Freddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreddySam09&show_icons=true&theme=default&hide_border=true)  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreddySam09&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddySam09&layout=compact&theme=default&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddySam09&layout=compact&theme=dark&hide_border=true)  
 
 ---
 
