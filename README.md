@@ -3,7 +3,7 @@
 **Software Engineer | Full-Stack Developer | Innovator**  
 Curious about building engaging, scalable, and impactful applications that combine technology and creativity.  
 
-[Portfolio](https://freddysam.vercel.app) | [LinkedIn](https://www.linkedin.com/in/freddy-samjacob/) | [GitHub](https://github.com/FreddySam09)
+[Portfolio](https://freddysam.vercel.app) | [LinkedIn](https://www.linkedin.com/in/freddy-samjacob/) 
 
 ---
 
