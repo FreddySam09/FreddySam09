@@ -41,6 +41,14 @@ Curious about building engaging, scalable, and impactful applications that combi
 
 ---
 
+
+## GitHub Stats
+![Freddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreddySam09&show_icons=true&theme=default&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddySam09&layout=compact&theme=default&hide_border=true)  
+
+---
+
 ## Contact
 - Email: freddysamv@gmail.com  
 - Portfolio: [freddysam.vercel.app](https://freddysam.vercel.app)  
